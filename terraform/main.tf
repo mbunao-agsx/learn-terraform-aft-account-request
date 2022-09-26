@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "HashiCorp Learn"
-    change_reason       = "Learn AWS Control Tower Account Factory for Terraform - 20220926"
+    change_reason       = "Learn AWS Control Tower Account Factory for Terraform - 20220927"
   }
 
   custom_fields = {
@@ -44,7 +44,7 @@ module "sandbox-01" {
 
   change_management_parameters = {
     change_requested_by = "HashiCorp Learn"
-    change_reason       = "Learn AWS Control Tower Account Factory for Terraform - 20220926"
+    change_reason       = "Learn AWS Control Tower Account Factory for Terraform - 20220927"
   }
 
   custom_fields = {
