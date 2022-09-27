@@ -31,7 +31,7 @@ module "amarigza-sb-02" {
 
   control_tower_parameters = {
     AccountEmail              = "amarigza@agsx.net"
-    AccountName               = "amarigza@agsx.net"
+    AccountName               = "amarigza-sb-02"
     ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "amarigza@agsx.net"
     SSOUserFirstName          = "Gabbie"
