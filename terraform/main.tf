@@ -62,7 +62,7 @@ module "mbunao-test-aft" {
     AccountName               = "mbunao-test-aft"
     ManagedOrganizationalUnit = "TestOU (ou-eq2e-wllvkya9)"
     SSOUserEmail              = "mbunao+test-aft@agsx.net"
-    SSOUserFirstName          = "Mae"
+    SSOUserFirstName          = "Mae Test"
     SSOUserLastName           = "Bunao"
   }
 
